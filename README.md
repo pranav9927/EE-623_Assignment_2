@@ -23,7 +23,6 @@
 
 - Target: ~14 kbps → achieved **12.7 kbps**  
 - Frame: 10 ms (100 frames/s), 127 bits/frame  
-- 10th-order LPC, adaptive + sign-only fixed codebook  
 - Avg SegSNR: **3.12 dB**  
 - Avg LSD: **9.49 dB** (fair-to-good quality)  
 - Avg encode/decode time: **0.07 s**
