@@ -1,14 +1,6 @@
 # EE-623 Assignment 2 – Speech Coding
 **Sriram Pranav Gumpalli** | Roll No: 220102038
 
-## Repository Structure
-├── CELP_codec/               # CELP @ ~12.7 kbps
-├── Plain_LPC_Vocoder/        # Plain LPC @ 3.1 kbps
-├── Voice_Excited_Vocoder/    # Voice-Excited LPC @ 15.55 kbps
-├── female1.wav, female2.wav
-├── male1.wav, male2.wav
-└── README.md
-
 ## Objective 1 – Wideband LPC Vocoders (16 kHz)
 
 | Vocoder                | Bitrate   | Excitation                  | Avg SegSNR | Avg Time |
